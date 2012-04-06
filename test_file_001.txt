@@ -3,6 +3,7 @@ NIA 06-APR-2012
 Test file 001.
 
 BRANCH_001 : Test update.
+BRANCH_001 : Test update 002.
 
 --------------------------------------------------------------------------
 End of file.
